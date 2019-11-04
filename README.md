@@ -1,6 +1,5 @@
-# carlos' dotfiles
+# yehuda's dotfiles
 
-[![Build Status][tb]][tp]
 [![Powered by Antibody][ab]][ap]
 
 > Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
